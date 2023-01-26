@@ -1,5 +1,3 @@
-
-
 class Pojisteny:
     """
     Třída reprezentující pojištěnou osobu
